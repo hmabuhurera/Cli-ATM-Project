@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //Inquirer Importer
 import inquirer from "inquirer";
 //Blace info

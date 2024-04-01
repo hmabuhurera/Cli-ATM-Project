@@ -1,13 +1,10 @@
 {
-  "name": "@hafiz-muhammad-taha/atm-project",
-  "version": "1.0.0",
+  "name": "t12ka1-atm-project",
+  "version": "1.0.3",
   "description": "\"this is ATM Project\"",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
